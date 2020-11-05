@@ -1,6 +1,6 @@
 # Constraint programming
 
-This is a short course about constraint programming.
+This is a short course about constraint programming (combinatorial optimization).
 
 ## Materials
 
